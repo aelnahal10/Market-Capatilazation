@@ -1,0 +1,71 @@
+2024-02-18 17:10:46 - INFO - ETL process started.
+2024-02-18 17:10:49 - INFO - Error extracting data: No tables found
+2024-02-18 17:10:49 - INFO - ETL process encountered an error: No tables found
+2024-02-18 17:11:12 - INFO - ETL process started.
+2024-02-18 17:11:13 - INFO - Error extracting data: No tables found
+2024-02-18 17:11:13 - INFO - ETL process encountered an error: No tables found
+2024-02-18 17:14:13 - INFO - ETL process started.
+2024-02-18 17:14:13 - INFO - Error extracting data: No tables found
+2024-02-18 17:14:13 - INFO - ETL process encountered an error: No tables found
+2024-02-18 17:19:18 - INFO - ETL process started.
+2024-02-18 17:19:19 - INFO - Error extracting data: No tables found
+2024-02-18 17:19:19 - INFO - ETL process encountered an error: No tables found
+2024-02-18 17:19:19 - INFO - ETL process started.
+2024-02-18 17:19:20 - INFO - Error extracting data: No tables found
+2024-02-18 17:19:20 - INFO - ETL process encountered an error: No tables found
+2024-02-18 17:19:43 - INFO - ETL process started.
+2024-02-18 17:19:44 - INFO - Error extracting data: No tables found
+2024-02-18 17:19:44 - INFO - ETL process encountered an error: No tables found
+2024-02-18 17:23:40 - INFO - ETL process started.
+2024-02-18 17:23:41 - INFO - Error extracting data: No tables found
+2024-02-18 17:23:41 - INFO - ETL process encountered an error: No tables found
+2024-02-18 17:24:02 - INFO - ETL process started.
+2024-02-18 17:24:13 - INFO - ETL process started.
+2024-02-18 17:30:58 - INFO - ETL process started.
+2024-02-18 17:31:04 - INFO - Error extracting data: No tables found
+2024-02-18 17:31:04 - INFO - ETL process encountered an error: No tables found
+2024-02-18 17:36:21 - INFO - ETL process started.
+2024-02-18 17:36:34 - INFO - Error extracting data: No tables found
+2024-02-18 17:36:34 - INFO - ETL process encountered an error: No tables found
+2024-02-18 17:38:29 - INFO - ETL process started.
+2024-02-18 17:38:30 - INFO - Error extracting data: No tables found
+2024-02-18 17:38:30 - INFO - ETL process encountered an error: No tables found
+2024-02-18 17:38:57 - INFO - ETL process started.
+2024-02-18 17:38:59 - INFO - Error extracting data: No tables found
+2024-02-18 17:38:59 - INFO - ETL process encountered an error: No tables found
+2024-02-18 17:41:17 - INFO - ETL process started.
+2024-02-18 17:41:19 - INFO - Error extracting data: No tables found
+2024-02-18 17:41:19 - INFO - Error in data transformation: [Errno 2] No such file or directory: 'exchange_rates.csv'
+2024-02-18 17:41:19 - INFO - ETL process encountered an error: [Errno 2] No such file or directory: 'exchange_rates.csv'
+2024-02-18 17:42:28 - INFO - ETL process started.
+2024-02-18 17:42:33 - INFO - Data extracted successfully from https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks
+2024-02-18 17:42:33 - INFO - Error in data transformation: [Errno 2] No such file or directory: 'exchange_rates.csv'
+2024-02-18 17:42:33 - INFO - ETL process encountered an error: [Errno 2] No such file or directory: 'exchange_rates.csv'
+2024-02-18 17:42:55 - INFO - ETL process started.
+2024-02-18 17:42:56 - INFO - Data extracted successfully from https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks
+2024-02-18 17:42:56 - INFO - Error in data transformation: 'Market Cap (USD)'
+2024-02-18 17:42:56 - INFO - ETL process encountered an error: 'Market Cap (USD)'
+2024-02-18 17:52:03 - INFO - ETL process started.
+2024-02-18 17:52:07 - INFO - Data extracted successfully from https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks
+2024-02-18 17:52:07 - INFO - ETL process encountered an error: 'Market Cap (USD)'
+2024-02-18 17:53:50 - INFO - ETL process started.
+2024-02-18 17:53:51 - INFO - Data extracted successfully from https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks
+2024-02-18 17:53:51 - INFO - ETL process encountered an error: 'Market Cap (USD)'
+2024-02-18 17:54:24 - INFO - ETL process started.
+2024-02-18 17:54:25 - INFO - Data extracted successfully from https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks
+2024-02-18 17:54:25 - INFO - Data transformed successfully
+2024-02-18 17:54:25 - INFO - Data saved to CSV at largest_banks.csv.
+2024-02-18 17:54:25 - INFO - Data saved to database table Largest_banks in Banks.db.
+2024-02-18 17:54:25 - INFO - ETL process completed successfully.
+2024-02-18 17:56:57 - INFO - Starting ETL process
+2024-02-18 17:56:58 - INFO - Data extracted successfully from https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks
+2024-02-18 17:56:58 - INFO - Data transformed successfully
+2024-02-18 17:56:58 - INFO - Data saved to CSV at largest_banks.csv.
+2024-02-18 17:56:58 - INFO - Data saved to database table Largest_banks in Banks.db.
+2024-02-18 17:56:58 - INFO - ETL process completed successfully
+2024-02-18 17:57:06 - INFO - Starting ETL process
+2024-02-18 17:57:10 - INFO - Data extracted successfully from https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks
+2024-02-18 17:57:10 - INFO - Data transformed successfully
+2024-02-18 17:57:10 - INFO - Data saved to CSV at largest_banks.csv.
+2024-02-18 17:57:10 - INFO - Data saved to database table Largest_banks in Banks.db.
+2024-02-18 17:57:10 - INFO - ETL process completed successfully
